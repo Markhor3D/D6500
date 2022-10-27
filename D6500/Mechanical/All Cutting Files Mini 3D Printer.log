@@ -1,5 +1,5 @@
 			 Translator Log
-			09/14/22@15:06:37
+			10/18/22@12:18:47
 
 Input File Name:  C:\Users\muhammadshoaib\Documents\Github\MinFDM\D6500\Mechanical\All Cutting Files.dft
 Output File Name: C
@@ -318,8 +318,8 @@ Scale=0.040000
 DWGdirect 4.2
 
 Objects exported to AutoCAD
-   24   : Arc 2D
-   135  : Ellipse 2D
-   86   : Group
-   1270 : Line 2D
+   60   : Arc 2D
+   157  : Ellipse 2D
+   85   : Group
+   1640 : Line 2D
    1    : Block Definition
