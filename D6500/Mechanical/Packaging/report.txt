@@ -1,0 +1,17 @@
+﻿Report Name: C:\Users\techboy\Documents\GitHub\MinFDM\D6500\Mechanical\Packaging\report.txt
+Report Time: 1/9/2023 12:16:20 AM
+Report Options:
+    Part Names
+
+Select Set #1:
+    Z Bed Middle.par:1
+
+Select Set #2:
+    Z Bed.asm:1
+
+Interferences:
+    1 of 1
+    Z Bed Middle.par:1
+    Small Support.par:3
+
+    1 Interferences Detected
