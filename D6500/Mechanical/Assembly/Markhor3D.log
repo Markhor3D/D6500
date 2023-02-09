@@ -1,0 +1,371 @@
+STEP translation to Solid Edge
+Date: Tuesday,January 03,2023 02:11PM
+Source File: D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Markhor3D.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+Operating System: Windows 10 Professional
+Installed Memory: 15.9 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Markhor3D_0.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Assembled Frame_0.asm
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Main Solid Frame_0.asm
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Base Frame_0.asm
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bed Holding Plate.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Main Support.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg Joint Front Plate.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom Joint Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom Joint Support.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg Support.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg Joint Plate.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Main Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bed Holding Plate.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom Joint Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom Joint Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor Clamp.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Corner Support Long 2.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Corner Support Long.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom Joint Support.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Front Support Plate.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Opto Coupler Support.par
+|  |  |--+Total Parts: 35
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 35
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Vertical Frame_0.asm
+|  |  |  |--+Begin Assembly: 5
+|  |  |  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Vertical Frame Column_0.asm
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Side Plate.par
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Side Support Plate.par
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Corner Support.par
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Corner Support.par
+|  |  |  |--+Total Parts: 7
+|  |  |  |--+Assemblies: 0
+|  |  |  |--+Solid Bodies: 7
+|  |  |  |--+Sheet Bodies: 0
+|  |  |  |--+End Assembly: 5
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Support.par
+|  |  |  |--+Begin Assembly: 5
+|  |  |  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Vetical Frame Top Beam_0.asm
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Plate .par
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Support Plate Long.par
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Support Plate Long.par
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Support Plate.par
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Corner Support.par
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Corner Support.par
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor Clamp_0.par
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Corner Support.par
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Corner Support 2.par
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Leg Support.par
+|  |  |  |--+Total Parts: 16
+|  |  |  |--+Assemblies: 0
+|  |  |  |--+Solid Bodies: 16
+|  |  |  |--+Sheet Bodies: 0
+|  |  |  |--+End Assembly: 5
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z Holding Plate.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z Holding Plate.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Support.par
+|  |  |  |--+Begin Assembly: 5
+|  |  |  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Vertical Frame Column_mir_0.asm
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Side Plate.par
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Side Support Plate.par
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Corner Support.par
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Corner Support.par
+|  |  |  |--+Total Parts: 4
+|  |  |  |--+Assemblies: 0
+|  |  |  |--+Solid Bodies: 4
+|  |  |  |--+Sheet Bodies: 0
+|  |  |  |--+End Assembly: 5
+|  |  |  |--+Begin Assembly: 5
+|  |  |  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Verical Frame Bottom Beam_0.asm
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom  Plate.par
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom Corner Support.par
+|  |  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom Corner Support.par
+|  |  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom Support Plate.par
+|  |  |  |--+Total Parts: 7
+|  |  |  |--+Assemblies: 0
+|  |  |  |--+Solid Bodies: 7
+|  |  |  |--+Sheet Bodies: 0
+|  |  |  |--+End Assembly: 5
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Support.par
+|  |  |--+Total Parts: 12
+|  |  |--+Assemblies: 4
+|  |  |--+Solid Bodies: 8
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |--+Total Parts: 2
+|  |--+Assemblies: 2
+|  |--+Solid Bodies: 0
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bed_0.asm
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bed Top Plate.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Holder.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Sliding Plate.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Sliding Plate.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Plate.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Holder Bottom.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Plate Support.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Plate.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Plate Support.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bend beams A.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bend beams B.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bend beams B.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Holder Bottom.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bend beams A.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bend beams B.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Holder.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Holder Bottom.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Holder.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Holder.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bend beams A.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Screw Holder Bottom.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack counter back lash.par
+|  |--+Total Parts: 38
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 38
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Y Slider_0.asm
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Midlde Plate.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bed Holding Top Plate.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Total Parts: 7
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 7
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Y Slider.asm
+|  |--+Total Parts: 0
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 0
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z Bed With Extruder_0.asm
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z Bed_0.asm
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\X Holding Plate 2nd.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z Slide Plate.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Long Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Long Support.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Small Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\X Holding Plate 2nd.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Small Support.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack counter back lash.par
+|  |  |--+Total Parts: 13
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 13
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\X Slider_0.asm
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\X Holding Top Plate 2nd.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\X Middle Plate 2nd.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |  |--+Total Parts: 6
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 6
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |  |--+Begin Assembly: 4
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\X Slider.asm
+|  |  |--+Total Parts: 0
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 0
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Hotend_0.asm
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\X Slide Plate.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\X Rack Support Plate.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack For X.par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Ext Top .par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Ext Fan .par
+|  |  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack counter back lash For X.par
+|  |  |--+Total Parts: 12
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 12
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |--+Total Parts: 3
+|  |--+Assemblies: 3
+|  |--+Solid Bodies: 0
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z Slider_0.asm
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z Holding Top Plate.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z Midlde Plate.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Total Parts: 7
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 7
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z Slider.asm
+|  |--+Total Parts: 0
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 0
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|--+Total Parts: 5
+|--+Assemblies: 5
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Main Exrtruder.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Y NEMA 17_0.asm
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor.par
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor Shaft.par
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion.par
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion Side.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion Side.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|--+Total Parts: 15
+|--+Assemblies: 0
+|--+Solid Bodies: 15
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Z NEMA 17_0.asm
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor Shaft.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion Side.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion Side.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|--+Total Parts: 11
+|--+Assemblies: 0
+|--+Solid Bodies: 11
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\X NEMA 17_0.asm
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor Shaft.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion Side.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Rack Pinion.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\8mm Button Head M3.par
+|--+Total Parts: 10
+|--+Assemblies: 0
+|--+Solid Bodies: 10
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\U OptoCoupler.par
+|--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Bottom Joint Support.par
+|--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\LimitSwitch.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder_0.asm
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor.asm
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor_0.par
+|  |  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Motor Shaft_0.par
+|  |--+Total Parts: 4
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 4
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Exrtuder Base.par
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Bottom.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Bottom.par
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Bottom Middle.par
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Pulley Metal.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Pulley Metal.par
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Top.par
+|  |--+Created SE Part File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Middle Hole.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Top.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Middle Hole.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Middle Hole.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Middle Hole.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Bottom Middle.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Bottom.par
+|  |--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Extruder Bottom.par
+|--+Total Parts: 22
+|--+Assemblies: 1
+|--+Solid Bodies: 21
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\LimitSwitch.par
+|--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\Top Corner Support.par
+|--+Reusing File D:\UserProfile\Documents\GitHub\MinFDM\D6500\Mechanical\Assembly\LimitSwitch.par
++Total Parts: 15
++Assemblies: 5
++Solid Bodies: 10
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 11
